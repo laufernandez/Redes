@@ -1,0 +1,11 @@
+Grupo 02
+===== ==
+
+Informe
+-------
+- Bien estructurado, buena legibilidad, referencias utilizadas.
+
+Código
+------
+- Prolijo, sencillo, bien estructurado y modularizado, uso de programación defensiva,
+- Buenas decisiones de diseño (uso de generadores por ej.).
