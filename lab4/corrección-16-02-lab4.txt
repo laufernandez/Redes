@@ -1,0 +1,11 @@
+Informe
+-------
+  + Mejorar la legibilidad.
+  + Resumir ideas.
+  + Aprovechar las capacidades de formateo de .md.
+
+Código
+------
++ Quitar los comentarios del enunciado.
++ En proxy:accept_new() no se setea el socket aceptado como no bloqueante.
++ En proxy:remove_finished() se llama a .send() sin la supervisación de poll().
